@@ -18,7 +18,6 @@ BODY {
 .menu{
   margin: 0px;
   padding: 0px;
-  display: inline;
   text-align: center;
   margin: 0 auto;
 }
@@ -83,7 +82,7 @@ BODY {
 .title{
   text-transform: uppercase;
   font-size: 1.5em;
-  color: #33485e
+  color: #33485e;
   weight:600;
   text-align: center;
   margin-top: 20px;
