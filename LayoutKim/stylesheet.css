@@ -1,0 +1,37 @@
+#content{
+  margin: 0 auto;
+  width: 900px;
+  font-family: 'Georgia', serif;
+  font-size: 13px;
+  text-align: left;
+}
+
+#byline{
+  font-family: helvetica, sans-serif;
+  font-size: 14pt;
+  font-style: italic;
+}
+
+#headline{
+  font-family: helvetica, sans-serif;
+  font-size: 25pt;
+}
+
+#caption{
+  font-family: helvetica, sans-serif;
+  font-size: 10pt;
+  color: #808080;
+  text-align: center;
+}
+
+#photo1{
+  text-align: center;
+}
+
+#banner{
+  text-align: center;
+}
+
+#photo2{
+  text-align: center;
+}
