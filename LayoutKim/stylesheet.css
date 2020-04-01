@@ -35,3 +35,13 @@
 #photo2{
   text-align: center;
 }
+
+#blockquote{
+  font-size: 13pt;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: black;
+  margin-left: 50px;
+  border-left: 4px solid #ccc
+}
