@@ -1,0 +1,55 @@
+h1{
+  font-family: Georgia, "Times New Roman",serif;
+  font-size: 30pt;
+}
+h2{
+  font-family: Georgia,"Times New Roman" ,serif;
+  font-size: 20pt;
+}
+h3{
+  font-family: Georgia,"Times New Roman" ,serif;
+  font-size: 12pt;
+  font-style: italic;
+}
+
+#intro{
+  font-family: helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  Padding-left: 10px;
+}
+
+#body{
+  font-family: helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  padding-left: 5px;
+}
+
+#sub{
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 13pt;
+  font-style: italic;
+  padding-left: 5px;
+}
+
+#quote{
+  color: #800000;
+  font-size: 12pt;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  border-left: 2px solid #ccc
+}
+
+.name{
+
+  color: #800000;
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+#info{
+  font-family: helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  padding-left: 5px;
+}
