@@ -62,12 +62,5 @@ h3{
 
 #page{
   width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-}
-p{
-  margin-left-auto;
-  margin-right: auto;
-  width: 900px;
-  align-items: center;
+  margin: 0 auto;
 }
