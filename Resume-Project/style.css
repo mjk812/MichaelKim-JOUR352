@@ -1,0 +1,92 @@
+#headshot{
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+#welcome{
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Raleway', "Times New Roman", serif;
+  font-weight: bold;
+  color: #0068B8
+}
+
+#bio{
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 50px;
+  font-family: 'Lato', Ariel, sans-serif;
+  color: #00258C
+}
+
+#heading{
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Raleway', "Times New Roman", serif;
+  font-size: 75px;
+  text-decoration: underline;
+  padding-bottom: 10px;
+  color: #0068B8
+}
+
+#title{
+  text-align: left;
+  padding-top: 5px;
+  padding-left: 50px;
+  font-family: 'Raleway', "Times New Roman", serif;
+  font-weight: bold;
+  color: #DAA520
+}
+
+.organization{
+  text-align: left;
+  padding-top: 3px;
+  padding-left: 50px;
+  font-family: 'Lato', Ariel, sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  color: #00258C
+}
+
+.date{
+  text-align: left;
+  padding-top: 3px;
+  padding-left: 50px;
+  font-family: 'Lato', Ariel, sans-serif;
+  color: #00258C
+}
+
+#description{
+  text-align: left;
+  padding-top: 3px;
+  padding-left: 50px;
+  font-family: 'Lato', Ariel, sans-serif;
+  color: #00258C
+}
+
+.organization2{
+  text-align: left;
+  padding-top: 3px;
+  padding-left: 50px;
+  font-family: 'Lato', Ariel, sans-serif;
+  font-size: 1px;
+  font-style: italic;
+}
+
+#skills{
+  padding-top: 20px;
+  padding-left: 5px;
+  text-align: center;
+  color: #00258C
+}
+
+#handle{
+  font-size: 30px;
+  text-align: left;
+  padding-top: 3px;
+  padding-left: 50px;
+  font-family: 'Lato', Ariel, sans-serif;
+  color: #00258C
+}
