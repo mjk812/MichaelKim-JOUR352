@@ -1,0 +1,47 @@
+.headline{
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family: Montserrat, san-serif;
+}
+
+.byline{
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family: 'Montserrat', san-serif;
+  text-align: center;
+}
+
+p{
+  font-family: 'Georiga', serif;
+  line-height: 180%;
+  text-align: left;
+}
+
+.header{
+  font-family: 'Montserrat', san-serif;
+  font-size: 2em;
+  font-weight: 600;
+}
+
+#image{
+  text-align: center;
+}
+
+.caption{
+  font-size: .75em;
+  font-family: 'Georgia', serif;
+  color: #C0C0C0;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+footer{
+  background:  #C0C0C0;
+}
+#footer{
+  margin-top: 50px;
+  font-family: 'Georiga', serif;
+  line-height: 180%;
+  text-align: center;
+}
