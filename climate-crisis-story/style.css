@@ -51,6 +51,10 @@ p{
 
 footer{
   background:  #C0C0C0;
+  opacity: .85;
+  color: #fff;
+  font-size: .8em;
+  font-style: italic;
 }
 #footer{
   margin-top: 50px;
@@ -130,6 +134,7 @@ blockquote{
   border-left: 2px solid #fe6e00;
   border-bottom: 2px solid #fe6e00;
   font-family: 'Montserrat', san-serif;
+  padding-bottom: 10px;
 }
 
 .sidebartitle{
