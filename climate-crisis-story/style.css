@@ -41,7 +41,21 @@ p{
   padding-bottom: 10px;
 }
 
+#image2{
+  text-align: center;
+  padding-top: 10px;
+  width: 100%;
+}
+
 .caption{
+  font-size: 1em;
+  font-family: 'Georgia', serif;
+  color: #C0C0C0;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.source{
   font-size: 1em;
   font-family: 'Georgia', serif;
   color: #C0C0C0;
@@ -155,6 +169,16 @@ blockquote{
   padding-bottom: 10px;
   padding-top: 10px;
 }
+
+a:visited{
+  color: purple;
+}
+
+a:hover{
+  color: green;
+  font-style: italic;
+}
+
 /* Media Queries */
 
 @media screen and (max-width:550px) {
